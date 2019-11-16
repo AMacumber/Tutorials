@@ -10,10 +10,6 @@ library(magrittr)
 ###
 
 
-### get the data
-datL <- read.csv("Data_Alluvial.csv")
-###
-
 ## we want values for depress and dep16 at each of time 1,2,3,4 broken as columns
 datW <-
   
